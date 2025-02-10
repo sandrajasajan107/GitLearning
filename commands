@@ -1,0 +1,2 @@
+git init [to initialise git in a new folder]
+git status [ to check the untracked changes]
