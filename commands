@@ -1,2 +1,4 @@
 git init [to initialise git in a new folder]
 git status [ to check the untracked changes]
+git add -A [to add changes to staging area]
+git commit -m 'message'
