@@ -1,4 +1,9 @@
 git init [to initialise git in a new folder]
 git status [ to check the untracked changes]
 git add -A [to add changes to staging area]
-git commit -m 'message'
+git commit -m 'message'[to commit changes to local repository]
+git log [to get the history of changes made]
+git stash [ to recover the code]
+git push [adding local repository content to remote repository]
+git clone [exact copy from remote repository to local repository]
+git pull [changes made in remote repository added to local repository]
